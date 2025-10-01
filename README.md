@@ -1,4 +1,5 @@
 # Python-basics
+"""
 Includes the basic Python datatypes and their built-in functions and usage. 
 Introduction to Python Data Types
 Python Numbers
@@ -21,3 +22,4 @@ def Keyword
 Basics of Python Functions
 args and kwargs in Python
 Errors and Exception Handling
+"""
